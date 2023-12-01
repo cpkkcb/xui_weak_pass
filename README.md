@@ -8,4 +8,6 @@
 
 # xui_weak_pass<br>
 
-xui系统弱口令检测脚本,用法: python xui_weak_pass.py
+
+使用https://github.com/vaxilu/x-ui     <br>
+x-ui搭建相关系统，但忽略了默认口令或弱口令情况，可以使用此脚本进行检测,用法: python xui_weak_pass.py
