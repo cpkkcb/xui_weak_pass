@@ -8,5 +8,4 @@
 
 # xui_weak_pass<br>
 
-xui系统弱口令检测脚本<br>
-用法 python xui_weak_pass.py
+xui系统弱口令检测脚本,用法: python xui_weak_pass.py
